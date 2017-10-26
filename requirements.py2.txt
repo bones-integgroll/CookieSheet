@@ -1,0 +1,5 @@
+lz4==0.10.1
+pathlib==1.0.1
+pycrypto==2.6.1
+selenium==3.6.0
+virtualenv==15.1.0
