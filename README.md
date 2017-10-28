@@ -1,6 +1,8 @@
 # Cookie Sheet
 Cookie Sheet is a conglomeration of a number of post-exploitation cookie stealing techniques from across the Internet combined with a burp extension. Together these tools allow an attacker with access to another system to get the cookies from that system's users and impersonate them locally for scanning using burpsuite.
 
+ShellCon Slides: https://docs.google.com/presentation/d/1ZWKzFA2RPsWiyZ2t74VSVNbPum7MgLKf1j3LxforFhg
+
 ## Installing
 
 1. Clone from this github repo that you are already at!
