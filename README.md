@@ -29,7 +29,7 @@ Don't forget to clean up behind you...
 
 ### Using the GNAWS Burp extension
 1. Start burpsuite and load GNAWS.py as an extension
-2. Click the Cookie Cloner tab and click load cookies
+2. Click the "Cookie Cloner" tab and click load cookies
 3. Navigate to your cookie.json file and upload it
 4. When done, click "Reset Cookies" to revert to your previously saved state
 
