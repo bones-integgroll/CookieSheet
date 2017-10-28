@@ -14,11 +14,11 @@ Cookie Sheet is a conglomeration of a number of post-exploitation cookie stealin
 
 After Magically uploading `cookie_dough.py` to the end user host:
 
-`user@CookieStealingHost:$ python cookie_dough.py`
+`user@CookieVictimHost:$ python cookie_dough.py`
 
 If the end user host is running macOS/OSX or Linux, upload `keychain_dump.py` and run:
  
-`user@CookieStealingHost:$ python keychain_dump.py`
+`user@CookieVictimHost:$ python keychain_dump.py`
 
  Magically download the resulting `cookie_dough.zip` (and `k.zip` if macOS/OSX or Linux) to your local machine and decrypt the stolen cookies:
 
